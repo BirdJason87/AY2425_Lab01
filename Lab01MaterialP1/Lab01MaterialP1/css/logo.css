@@ -19,7 +19,7 @@ div.cell{
 }
 /* PH logo setting */
 div.honver{
-           background: aqua;
+           background: Black;
            display: block;
            padding: 5px;
        }
@@ -40,7 +40,7 @@ div.hhub{
 }
 @font-face {
           font-family: PHFont;
-          src: url(../font/ntailub.ttf);
+          src: url(/font/ntailub.ttf);
 }
 
 /*Youtube*/
